@@ -1,0 +1,1 @@
+SELECT * FROM vaccine_schedule.`vaccine-schedule-data`;
